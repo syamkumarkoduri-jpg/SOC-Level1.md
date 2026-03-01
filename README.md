@@ -36,5 +36,10 @@ The SOC Level 1 path focuses on building the skills required for a Security Oper
 🔄 Currently progressing through SOC Level 1 path.
 
 ---
+---
+
+## 📝 Notes
+
+This path is helping me understand real-world SOC workflows and alert investigation process.
 
 ⭐ *More SOC writeups coming soon…*
